@@ -7,7 +7,7 @@ Hola, soy @MenghySanchez, estoy interasado en las áreas de:
 Actualmente esto aprendiendo todo lo necesairo para ser un excelente Full-Stack Web Developer.
 En mi linea de aprendizaje la he estructurado de la siguiente forma:
 
-1. Full-Stack Web Developer
+1. Front-End Web Developer
 	- Html y CSS
 	- Git, Github, GitLab
 	- Java Script
