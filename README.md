@@ -1,5 +1,5 @@
 Hola, soy @MenghySanchez, estoy interasado en las áreas de: 
-- Full-Stack Web Developer
+- Front-end Web Developer
 - DevOps
 - Transformación digital
 - Analista de datos.
