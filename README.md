@@ -1,6 +1,6 @@
 ***Nombre***: Menghy Raúl Sánchez Maila
 
-***Profesión***: Ing. Ssitemas y Computación
+***Profesión***: Ing. Sistemas y Computación
 
 ***Especialización***
 
@@ -8,13 +8,13 @@
 * Dev. Front - End Junior with React JS
 * Arquitecto de Infraestructura Cloud
 
-***Lenguajes de programación que domino***
+***Conocimientos adquiridos***
 
-| Lenguajes | Técnologias | Software | Normativas | 
-| -- | -- | -- | -- |
-| C++ | Docker | Adobe XD | ISO/IEC 25010 |
-| C | Docker Compose | Photoshop | PMBook |
-| Java | React JS | Ilustrador | Scrum |
-| Java Script | | Figma | Kanban |
-| Python | | Flutter Flow| ITIL V3 |
-| PHP | |  |
+| Leng. Dev.| Leng. Marc. | Técnologias | Software | Normativas | 
+| -- | -- | -- | -- | -- |
+| C++ | HTML | Docker | Adobe XD | ISO/IEC 25010 |
+| C | CSS | Docker Compose | Photoshop | PMBook |
+| Java | Markdown | React JS | Ilustrador | Scrum |
+| Java Script |  | SQL | Figma | Kanban |
+| Python |  | | Flutter Flow| ITIL V3 |
+| PHP | | | Sql Workbench |
